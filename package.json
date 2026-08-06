@@ -1,6 +1,6 @@
 {
   "name": "caniuse-db",
-  "version": "1.0.30001798",
+  "version": "1.0.30001807",
   "description": "Raw browser/feature support data from caniuse.com",
   "keywords": [
     "support",
