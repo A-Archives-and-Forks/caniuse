@@ -745,8 +745,8 @@
   "notes_by_num":{
     "1":"Supports scrollIntoView with boolean parameter, but not `smooth` behavior option"
   },
-  "usage_perc_y":93.91,
-  "usage_perc_a":3.02,
+  "usage_perc_y":95.28,
+  "usage_perc_a":1.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

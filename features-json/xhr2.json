@@ -766,8 +766,8 @@
     "3":"Partial support refers to not supporting `blob` as `responseType`",
     "4":"Partial support refers to missing some newer `FormData` functionality (search for specific APIs for details)."
   },
-  "usage_perc_y":95.72,
-  "usage_perc_a":1.2,
+  "usage_perc_y":96.13,
+  "usage_perc_a":0.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"xhr level 2",

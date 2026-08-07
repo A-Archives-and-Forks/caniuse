@@ -757,8 +757,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":96.71,
-  "usage_perc_a":0.22,
+  "usage_perc_y":96.42,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

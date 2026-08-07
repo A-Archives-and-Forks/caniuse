@@ -752,8 +752,8 @@
   "notes_by_num":{
     "1":"Uses an older non-standard attribute called `shadowroot` instead of the standardized `shadowrootmode` attribute"
   },
-  "usage_perc_y":91.23,
-  "usage_perc_a":1.82,
+  "usage_perc_y":92.85,
+  "usage_perc_a":1.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

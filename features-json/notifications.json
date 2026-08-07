@@ -774,8 +774,8 @@
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
     "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
-  "usage_perc_y":81.53,
-  "usage_perc_a":12.85,
+  "usage_perc_y":80.23,
+  "usage_perc_a":14.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

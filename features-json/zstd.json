@@ -762,8 +762,8 @@
     "2":"Partial support refers to supporting Zstandard, but not requesting it",
     "3":"Requires macOS 26.3 Tahoe or later."
   },
-  "usage_perc_y":79.52,
-  "usage_perc_a":2.11,
+  "usage_perc_y":81.68,
+  "usage_perc_a":2.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"RFC8878",

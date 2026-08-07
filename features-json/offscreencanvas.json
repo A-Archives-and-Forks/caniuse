@@ -758,8 +758,8 @@
     "2":"Can be enabled via the `Experimental canvas features` flag",
     "3":"Partial support refers to only supporting 2D contexts, not WebGL."
   },
-  "usage_perc_y":93.33,
-  "usage_perc_a":0.5,
+  "usage_perc_y":94.69,
+  "usage_perc_a":0.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -744,8 +744,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":78.32,
-  "usage_perc_a":0.03,
+  "usage_perc_y":76.97,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",

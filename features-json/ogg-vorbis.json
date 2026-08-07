@@ -742,7 +742,7 @@
     "2":"Supports the Vorbis audio codec, but not the Ogg container."
   },
   "usage_perc_y":94.24,
-  "usage_perc_a":1.16,
+  "usage_perc_a":1.15,
   "ucprefix":false,
   "parent":"audio",
   "keywords":".ogg,.oga,application/ogg,audio/ogg",

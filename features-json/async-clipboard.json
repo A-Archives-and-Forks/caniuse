@@ -753,8 +753,8 @@
     "1":"Partial support refers to only supporting the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":93.61,
-  "usage_perc_a":0.69,
+  "usage_perc_y":94.95,
+  "usage_perc_a":0.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",

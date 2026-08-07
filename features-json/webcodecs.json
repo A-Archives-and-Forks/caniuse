@@ -760,8 +760,8 @@
   "notes_by_num":{
     "1":"Video-only support"
   },
-  "usage_perc_y":88.53,
-  "usage_perc_a":3.72,
+  "usage_perc_y":89.83,
+  "usage_perc_a":3.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"VideoDecoder,AudioDecoder,VideoEncoder,AudioEncoder,EncodedAudioChunk,EncodedVideoChunk,AudioData,VideoFrame,VideoColorSpace,ImageDecoder,ImageTrackList,ImageTrack",

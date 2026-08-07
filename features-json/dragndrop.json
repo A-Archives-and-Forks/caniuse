@@ -785,8 +785,8 @@
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
     "4":"Not supported in Chromium browsers on Android 6 or older."
   },
-  "usage_perc_y":94.51,
-  "usage_perc_a":0.22,
+  "usage_perc_y":94.48,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

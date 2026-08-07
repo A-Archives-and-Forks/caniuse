@@ -740,8 +740,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":50.51,
-  "usage_perc_a":46.42,
+  "usage_perc_y":48.66,
+  "usage_perc_a":48.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

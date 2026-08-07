@@ -746,8 +746,8 @@
     "2":"Only works on ChromeOS",
     "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":95.21,
-  "usage_perc_a":0.77,
+  "usage_perc_y":95.98,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"flac,lossless,audio",

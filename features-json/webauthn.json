@@ -754,8 +754,8 @@
     "6":"Partial support refers to TouchID not being supported.",
     "7":"Does not support direct attestations"
   },
-  "usage_perc_y":90.98,
-  "usage_perc_a":3.31,
+  "usage_perc_y":92.41,
+  "usage_perc_a":3.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"fido,webauthn,webauthm",

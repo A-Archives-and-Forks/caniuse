@@ -745,8 +745,8 @@
     "1":"Supported as the `-apple-system` value (only on macOS and iOS)",
     "2":"Supported as the `BlinkMacSystemFont` value (only on macOS)"
   },
-  "usage_perc_y":95.2,
-  "usage_perc_a":0.28,
+  "usage_perc_y":95.97,
+  "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

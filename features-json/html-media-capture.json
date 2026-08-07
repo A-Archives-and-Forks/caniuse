@@ -750,8 +750,8 @@
     "2":"Android 2.2-2.3 do not support the capture attribute",
     "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of whether the capture attribute is used."
   },
-  "usage_perc_y":60.17,
-  "usage_perc_a":0.62,
+  "usage_perc_y":62.77,
+  "usage_perc_a":0.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"htmlmediacapture, html media capture, media capture, mediacapture",

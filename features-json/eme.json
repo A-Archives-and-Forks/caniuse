@@ -749,8 +749,8 @@
   "notes_by_num":{
     "1":"Only supports the older event-based specification"
   },
-  "usage_perc_y":95.99,
-  "usage_perc_a":0.47,
+  "usage_perc_y":96.18,
+  "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"requestMediaKeySystemAccess,createMediaKeys",

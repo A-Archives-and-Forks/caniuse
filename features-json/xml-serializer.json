@@ -752,8 +752,8 @@
     "2":"Partial support refers to supporting only `innerHTML`.",
     "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
-  "usage_perc_y":96.89,
-  "usage_perc_a":0.03,
+  "usage_perc_y":96.67,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

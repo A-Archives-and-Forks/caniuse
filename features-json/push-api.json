@@ -750,8 +750,8 @@
     "6":"Supported in Safari, not WKWebView nor SFSafariViewController",
     "7":"Requires website to first be added to the Home Screen."
   },
-  "usage_perc_y":82.36,
-  "usage_perc_a":12.76,
+  "usage_perc_y":81.85,
+  "usage_perc_a":13.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

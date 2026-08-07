@@ -749,8 +749,8 @@
     "1":"Does not have `FileReader` support. ",
     "2":"Does not support the `File` constructor"
   },
-  "usage_perc_y":96.68,
-  "usage_perc_a":0.25,
+  "usage_perc_y":96.41,
+  "usage_perc_a":0.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

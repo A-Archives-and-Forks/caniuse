@@ -766,8 +766,8 @@
     "2":"The initial Chrome prototype used an earlier draft syntax based on the `contain` property",
     "3":"Combining size container queries and table layout inside a multicolumn layout doesn't work"
   },
-  "usage_perc_y":92.47,
-  "usage_perc_a":0.13,
+  "usage_perc_y":93.96,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"container query,@container,container-name,container-type",

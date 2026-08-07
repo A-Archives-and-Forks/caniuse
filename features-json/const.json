@@ -748,8 +748,8 @@
     "4":"Supported correctly in strict mode, otherwise supported without block scope",
     "5":"Not supported in for-in and for-of loops"
   },
-  "usage_perc_y":95.81,
-  "usage_perc_a":1.12,
+  "usage_perc_y":96.16,
+  "usage_perc_a":0.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,constant,block,scope",

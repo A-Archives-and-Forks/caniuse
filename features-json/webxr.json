@@ -751,7 +751,7 @@
     "3":"Can be enabled in Safari with the `WebXR Device API` experimental feature."
   },
   "usage_perc_y":0,
-  "usage_perc_a":75.53,
+  "usage_perc_a":75.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.xr",
