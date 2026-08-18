@@ -280,7 +280,8 @@
       "153":"y",
       "154":"y",
       "155":"y",
-      "156":"y"
+      "156":"y",
+      "157":"y"
     },
     "chrome":{
       "4":"n",
@@ -489,6 +490,7 @@
       "26.3":"n",
       "26.4":"n",
       "26.5":"n",
+      "26.6":"n",
       "27":"n",
       "TP":"y"
     },
@@ -670,7 +672,8 @@
       "26.2":"n",
       "26.3":"n",
       "26.4":"n",
-      "26.5":"n"
+      "26.5":"n",
+      "26.6":"n"
     },
     "op_mini":{
       "all":"n"
@@ -755,7 +758,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137"
+    "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137",
+    "2":"Can be enabled via the `useTemporal` runtime flag"
   },
   "usage_perc_y":69.14,
   "usage_perc_a":0,
